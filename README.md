@@ -1,4 +1,4 @@
-# Exercise-16.13
+# Unit 2 Hands-on
 Write a program that converts US dollars into Canadian dollars, as shown in the following figure. The program let the user enter an amount in US dollars and display it equivalent value in Canadian dollars when clicking the Convert button. One dollar is 1.5 Canadian dollars. 
 
 ## Example Output
